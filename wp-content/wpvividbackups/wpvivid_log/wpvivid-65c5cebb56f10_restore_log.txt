@@ -1,0 +1,320 @@
+[2024-02-09 07:05:31][notice]Start restoring themes.
+[2024-02-09 07:05:31][notice]Extracting file:192.168.14.155_wpvivid-65c5cbdaaed44_2024-02-09-06-53_backup_all.zip
+[2024-02-09 07:05:31][notice]Extracting file:192.168.14.155_wpvivid-65c5cbdaaed44_2024-02-09-06-53_backup_all.zip succeeded.
+[2024-02-09 07:05:31][notice]Extracting file:192.168.14.155_wpvivid-65c5cbdaaed44_2024-02-09-06-53_backup_themes.zip index:0
+[2024-02-09 07:05:31][notice]Extracting file:192.168.14.155_wpvivid-65c5cbdaaed44_2024-02-09-06-53_backup_themes.zip index:0 finished.
+[2024-02-09 07:05:31][notice]End restore themes.
+[2024-02-09 07:05:34][notice]Start restoring themes.
+[2024-02-09 07:05:34][notice]Extracting file:192.168.14.155_wpvivid-65c5cbdaaed44_2024-02-09-06-53_backup_themes.zip index:1000
+[2024-02-09 07:05:34][notice]Extracting file:192.168.14.155_wpvivid-65c5cbdaaed44_2024-02-09-06-53_backup_themes.zip index:1000 finished.
+[2024-02-09 07:05:34][notice]End restore themes.
+[2024-02-09 07:05:35][notice]Start restoring plugin.
+[2024-02-09 07:05:35][notice]Extracting file:192.168.14.155_wpvivid-65c5cbdaaed44_2024-02-09-06-53_backup_all.zip
+[2024-02-09 07:05:35][notice]Extracting file:192.168.14.155_wpvivid-65c5cbdaaed44_2024-02-09-06-53_backup_all.zip succeeded.
+[2024-02-09 07:05:36][notice]Extracting file:192.168.14.155_wpvivid-65c5cbdaaed44_2024-02-09-06-53_backup_plugin.zip index:0
+[2024-02-09 07:05:36][notice]Extracting file:192.168.14.155_wpvivid-65c5cbdaaed44_2024-02-09-06-53_backup_plugin.zip index:0 finished.
+[2024-02-09 07:05:36][notice]End restore plugin.
+[2024-02-09 07:05:37][notice]Start restoring plugin.
+[2024-02-09 07:05:37][notice]Extracting file:192.168.14.155_wpvivid-65c5cbdaaed44_2024-02-09-06-53_backup_plugin.zip index:1000
+[2024-02-09 07:05:37][notice]Extracting file:192.168.14.155_wpvivid-65c5cbdaaed44_2024-02-09-06-53_backup_plugin.zip index:1000 finished.
+[2024-02-09 07:05:37][notice]End restore plugin.
+[2024-02-09 07:05:38][notice]Start restoring plugin.
+[2024-02-09 07:05:38][notice]Extracting file:192.168.14.155_wpvivid-65c5cbdaaed44_2024-02-09-06-53_backup_plugin.zip index:2000
+[2024-02-09 07:05:39][notice]Extracting file:192.168.14.155_wpvivid-65c5cbdaaed44_2024-02-09-06-53_backup_plugin.zip index:2000 finished.
+[2024-02-09 07:05:39][notice]End restore plugin.
+[2024-02-09 07:05:40][notice]Start restoring plugin.
+[2024-02-09 07:05:40][notice]Extracting file:192.168.14.155_wpvivid-65c5cbdaaed44_2024-02-09-06-53_backup_plugin.zip index:3000
+[2024-02-09 07:05:41][notice]Extracting file:192.168.14.155_wpvivid-65c5cbdaaed44_2024-02-09-06-53_backup_plugin.zip index:3000 finished.
+[2024-02-09 07:05:41][notice]End restore plugin.
+[2024-02-09 07:05:42][notice]Start restoring plugin.
+[2024-02-09 07:05:42][notice]Extracting file:192.168.14.155_wpvivid-65c5cbdaaed44_2024-02-09-06-53_backup_plugin.zip index:4000
+[2024-02-09 07:05:42][notice]Extracting file:192.168.14.155_wpvivid-65c5cbdaaed44_2024-02-09-06-53_backup_plugin.zip index:4000 finished.
+[2024-02-09 07:05:42][notice]End restore plugin.
+[2024-02-09 07:05:44][notice]Start restoring plugin.
+[2024-02-09 07:05:44][notice]Extracting file:192.168.14.155_wpvivid-65c5cbdaaed44_2024-02-09-06-53_backup_plugin.zip index:5000
+[2024-02-09 07:05:44][notice]Extracting file:192.168.14.155_wpvivid-65c5cbdaaed44_2024-02-09-06-53_backup_plugin.zip index:5000 finished.
+[2024-02-09 07:05:44][notice]End restore plugin.
+[2024-02-09 07:05:45][notice]Start restoring plugin.
+[2024-02-09 07:05:45][notice]Extracting file:192.168.14.155_wpvivid-65c5cbdaaed44_2024-02-09-06-53_backup_plugin.zip index:6000
+[2024-02-09 07:05:45][notice]Extracting file:192.168.14.155_wpvivid-65c5cbdaaed44_2024-02-09-06-53_backup_plugin.zip index:6000 finished.
+[2024-02-09 07:05:45][notice]End restore plugin.
+[2024-02-09 07:05:47][notice]Start restoring wp-content.
+[2024-02-09 07:05:47][notice]Extracting file:192.168.14.155_wpvivid-65c5cbdaaed44_2024-02-09-06-53_backup_all.zip
+[2024-02-09 07:05:47][notice]Extracting file:192.168.14.155_wpvivid-65c5cbdaaed44_2024-02-09-06-53_backup_all.zip succeeded.
+[2024-02-09 07:05:47][notice]Extracting file:192.168.14.155_wpvivid-65c5cbdaaed44_2024-02-09-06-53_backup_content.zip index:0
+[2024-02-09 07:05:47][notice]Extracting file:192.168.14.155_wpvivid-65c5cbdaaed44_2024-02-09-06-53_backup_content.zip index:0 finished.
+[2024-02-09 07:05:47][notice]End restore wp-content.
+[2024-02-09 07:05:48][notice]Start restoring upload.
+[2024-02-09 07:05:48][notice]Extracting file:192.168.14.155_wpvivid-65c5cbdaaed44_2024-02-09-06-53_backup_all.zip
+[2024-02-09 07:05:48][notice]Extracting file:192.168.14.155_wpvivid-65c5cbdaaed44_2024-02-09-06-53_backup_all.zip succeeded.
+[2024-02-09 07:05:48][notice]Extracting file:192.168.14.155_wpvivid-65c5cbdaaed44_2024-02-09-06-53_backup_uploads.zip index:0
+[2024-02-09 07:05:48][notice]Extracting file:192.168.14.155_wpvivid-65c5cbdaaed44_2024-02-09-06-53_backup_uploads.zip index:0 finished.
+[2024-02-09 07:05:48][notice]End restore upload.
+[2024-02-09 07:05:49][notice]Start restoring wp-core.
+[2024-02-09 07:05:49][notice]Extracting file:192.168.14.155_wpvivid-65c5cbdaaed44_2024-02-09-06-53_backup_all.zip
+[2024-02-09 07:05:50][notice]Extracting file:192.168.14.155_wpvivid-65c5cbdaaed44_2024-02-09-06-53_backup_all.zip succeeded.
+[2024-02-09 07:05:50][notice]Extracting file:192.168.14.155_wpvivid-65c5cbdaaed44_2024-02-09-06-53_backup_core.zip
+[2024-02-09 07:05:51][notice]Extracting file:192.168.14.155_wpvivid-65c5cbdaaed44_2024-02-09-06-53_backup_core.zip succeeded.
+[2024-02-09 07:05:51][notice]End restore wp-core.
+[2024-02-09 07:05:52][notice]Start restoring databases.
+[2024-02-09 07:05:52][notice]Extracting file:192.168.14.155_wpvivid-65c5cbdaaed44_2024-02-09-06-53_backup_all.zip
+[2024-02-09 07:05:52][notice]Extracting file:192.168.14.155_wpvivid-65c5cbdaaed44_2024-02-09-06-53_backup_all.zip finished.
+[2024-02-09 07:05:52][notice]Extracting file:/var/www/html/wp-content/wpvividbackups/192.168.14.155_wpvivid-65c5cbdaaed44_2024-02-09-06-53_backup_db.zip
+[2024-02-09 07:05:52][notice]Extracting file:/var/www/html/wp-content/wpvividbackups/192.168.14.155_wpvivid-65c5cbdaaed44_2024-02-09-06-53_backup_db.zip finished.
+[2024-02-09 07:05:52][notice]End restore databases.
+[2024-02-09 07:05:54][notice]Start restoring databases.
+[2024-02-09 07:05:54][notice]Start restoring sql file offset:0
+[2024-02-09 07:05:54][notice]The test to drop table succeeds.
+[2024-02-09 07:05:54][notice]Drop table if exist tmp427c81_formmaker_backup
+[2024-02-09 07:05:54][notice]Creating table tmp427c81_formmaker_backup
+[2024-02-09 07:05:54][notice]Dumping table tmp427c81_formmaker_backup is complete. Start replacing row(s).
+[2024-02-09 07:05:54][notice]Counting of rows in tmp427c81_formmaker_backup: 0
+[2024-02-09 07:05:54][notice]Drop table if exist tmp427c81_formmaker_blocked
+[2024-02-09 07:05:54][notice]Creating table tmp427c81_formmaker_blocked
+[2024-02-09 07:05:54][notice]Dumping table tmp427c81_formmaker_blocked is complete. Start replacing row(s).
+[2024-02-09 07:05:54][notice]Counting of rows in tmp427c81_formmaker_blocked: 0
+[2024-02-09 07:05:54][notice]Drop table if exist tmp427c81_formmaker_cookies
+[2024-02-09 07:05:54][notice]Creating table tmp427c81_formmaker_cookies
+[2024-02-09 07:05:54][notice]Dumping table tmp427c81_formmaker_cookies is complete. Start replacing row(s).
+[2024-02-09 07:05:54][notice]Counting of rows in tmp427c81_formmaker_cookies: 0
+[2024-02-09 07:05:54][notice]Drop table if exist tmp427c81_formmaker_groups
+[2024-02-09 07:05:54][notice]Creating table tmp427c81_formmaker_groups
+[2024-02-09 07:05:54][notice]Dumping table tmp427c81_formmaker_groups is complete. Start replacing row(s).
+[2024-02-09 07:05:54][notice]Counting of rows in tmp427c81_formmaker_groups: 0
+[2024-02-09 07:05:54][notice]Drop table if exist tmp427c81_formmaker_query
+[2024-02-09 07:05:54][notice]Creating table tmp427c81_formmaker_query
+[2024-02-09 07:05:54][notice]Dumping table tmp427c81_formmaker_query is complete. Start replacing row(s).
+[2024-02-09 07:05:54][notice]Counting of rows in tmp427c81_formmaker_query: 0
+[2024-02-09 07:05:54][notice]Drop table if exist tmp427c81_formmaker_sessions
+[2024-02-09 07:05:54][notice]Creating table tmp427c81_formmaker_sessions
+[2024-02-09 07:05:54][notice]Dumping table tmp427c81_formmaker_sessions is complete. Start replacing row(s).
+[2024-02-09 07:05:54][notice]Counting of rows in tmp427c81_formmaker_sessions: 0
+[2024-02-09 07:05:54][notice]Drop table if exist tmp427c81_formmaker_submits
+[2024-02-09 07:05:55][notice]Creating table tmp427c81_formmaker_submits
+[2024-02-09 07:05:55][notice]Dumping table tmp427c81_formmaker_submits is complete. Start replacing row(s).
+[2024-02-09 07:05:55][notice]Counting of rows in tmp427c81_formmaker_submits: 0
+[2024-02-09 07:05:55][notice]Drop table if exist tmp427c81_formmaker_views
+[2024-02-09 07:05:55][notice]Creating table tmp427c81_formmaker_views
+[2024-02-09 07:05:55][notice]Dumping table tmp427c81_formmaker_views is complete. Start replacing row(s).
+[2024-02-09 07:05:55][notice]Counting of rows in tmp427c81_formmaker_views: 0
+[2024-02-09 07:05:55][notice]Drop table if exist tmp427c81_wpforms_tasks_meta
+[2024-02-09 07:05:55][notice]Creating table tmp427c81_wpforms_tasks_meta
+[2024-02-09 07:05:55][notice]Dumping table tmp427c81_wpforms_tasks_meta is complete. Start replacing row(s).
+[2024-02-09 07:05:55][notice]Counting of rows in tmp427c81_wpforms_tasks_meta: 7
+[2024-02-09 07:05:55][notice]Replacing the row in 0 line.
+[2024-02-09 07:05:55][notice]Replacing row completed. Current row:5000
+[2024-02-09 07:05:55][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2024-02-09 07:05:55][notice]Drop table if exist tmp427c81_actionscheduler_claims
+[2024-02-09 07:05:55][notice]Creating table tmp427c81_actionscheduler_claims
+[2024-02-09 07:05:55][notice]Dumping table tmp427c81_actionscheduler_claims is complete. Start replacing row(s).
+[2024-02-09 07:05:55][notice]Counting of rows in tmp427c81_actionscheduler_claims: 0
+[2024-02-09 07:05:55][notice]Drop table if exist tmp427c81_actionscheduler_groups
+[2024-02-09 07:05:55][notice]Creating table tmp427c81_actionscheduler_groups
+[2024-02-09 07:05:55][notice]Dumping table tmp427c81_actionscheduler_groups is complete. Start replacing row(s).
+[2024-02-09 07:05:55][notice]Counting of rows in tmp427c81_actionscheduler_groups: 2
+[2024-02-09 07:05:55][notice]Replacing the row in 0 line.
+[2024-02-09 07:05:55][notice]Replacing row completed. Current row:5000
+[2024-02-09 07:05:55][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2024-02-09 07:05:55][notice]Drop table if exist tmp427c81_e_events
+[2024-02-09 07:05:55][notice]Creating table tmp427c81_e_events
+[2024-02-09 07:05:55][notice]Dumping table tmp427c81_e_events is complete. Start replacing row(s).
+[2024-02-09 07:05:55][notice]Counting of rows in tmp427c81_e_events: 0
+[2024-02-09 07:05:55][notice]Drop table if exist tmp427c81_formmaker_display_options
+[2024-02-09 07:05:55][notice]Creating table tmp427c81_formmaker_display_options
+[2024-02-09 07:05:55][notice]Dumping table tmp427c81_formmaker_display_options is complete. Start replacing row(s).
+[2024-02-09 07:05:55][notice]Counting of rows in tmp427c81_formmaker_display_options: 0
+[2024-02-09 07:05:55][notice]Drop table if exist tmp427c81_links
+[2024-02-09 07:05:55][notice]Creating table tmp427c81_links
+[2024-02-09 07:05:55][notice]Dumping table tmp427c81_links is complete. Start replacing row(s).
+[2024-02-09 07:05:55][notice]Counting of rows in tmp427c81_links: 0
+[2024-02-09 07:05:55][notice]Drop table if exist tmp427c81_term_relationships
+[2024-02-09 07:05:55][notice]Creating table tmp427c81_term_relationships
+[2024-02-09 07:05:56][notice]Dumping table tmp427c81_term_relationships is complete. Start replacing row(s).
+[2024-02-09 07:05:56][Warning]Skipping table tmp427c81_term_relationships
+[2024-02-09 07:05:56][notice]Drop table if exist tmp427c81_actionscheduler_logs
+[2024-02-09 07:05:56][notice]Creating table tmp427c81_actionscheduler_logs
+[2024-02-09 07:05:56][notice]Dumping table tmp427c81_actionscheduler_logs is complete. Start replacing row(s).
+[2024-02-09 07:05:56][notice]Counting of rows in tmp427c81_actionscheduler_logs: 25
+[2024-02-09 07:05:56][notice]Replacing the row in 0 line.
+[2024-02-09 07:05:56][notice]Replacing row completed. Current row:5000
+[2024-02-09 07:05:56][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2024-02-09 07:05:56][notice]Drop table if exist tmp427c81_commentmeta
+[2024-02-09 07:05:56][notice]Creating table tmp427c81_commentmeta
+[2024-02-09 07:05:56][notice]Dumping table tmp427c81_commentmeta is complete. Start replacing row(s).
+[2024-02-09 07:05:56][notice]Counting of rows in tmp427c81_commentmeta: 0
+[2024-02-09 07:05:56][notice]Drop table if exist tmp427c81_term_taxonomy
+[2024-02-09 07:05:56][notice]Creating table tmp427c81_term_taxonomy
+[2024-02-09 07:05:56][notice]Dumping table tmp427c81_term_taxonomy is complete. Start replacing row(s).
+[2024-02-09 07:05:56][notice]Counting of rows in tmp427c81_term_taxonomy: 4
+[2024-02-09 07:05:56][notice]Replacing the row in 0 line.
+[2024-02-09 07:05:56][notice]Replacing row completed. Current row:5000
+[2024-02-09 07:05:56][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2024-02-09 07:05:56][notice]Drop table if exist tmp427c81_termmeta
+[2024-02-09 07:05:56][notice]Creating table tmp427c81_termmeta
+[2024-02-09 07:05:56][notice]Dumping table tmp427c81_termmeta is complete. Start replacing row(s).
+[2024-02-09 07:05:56][notice]Counting of rows in tmp427c81_termmeta: 0
+[2024-02-09 07:05:56][notice]Drop table if exist tmp427c81_terms
+[2024-02-09 07:05:56][notice]Creating table tmp427c81_terms
+[2024-02-09 07:05:56][notice]Dumping table tmp427c81_terms is complete. Start replacing row(s).
+[2024-02-09 07:05:56][notice]Counting of rows in tmp427c81_terms: 4
+[2024-02-09 07:05:56][notice]Replacing the row in 0 line.
+[2024-02-09 07:05:56][notice]Replacing row completed. Current row:5000
+[2024-02-09 07:05:56][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2024-02-09 07:05:56][notice]Drop table if exist tmp427c81_usermeta
+[2024-02-09 07:05:56][notice]Creating table tmp427c81_usermeta
+[2024-02-09 07:05:58][notice]Dumping table tmp427c81_usermeta is complete. Start replacing row(s).
+[2024-02-09 07:05:58][notice]Counting of rows in tmp427c81_usermeta: 112
+[2024-02-09 07:05:58][notice]Replacing the row in 0 line.
+[2024-02-09 07:05:58][notice]Replacing row completed. Current row:5000
+[2024-02-09 07:05:58][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2024-02-09 07:05:58][notice]Drop table if exist tmp427c81_users
+[2024-02-09 07:05:58][notice]Creating table tmp427c81_users
+[2024-02-09 07:05:58][notice]Dumping table tmp427c81_users is complete. Start replacing row(s).
+[2024-02-09 07:05:58][notice]Counting of rows in tmp427c81_users: 5
+[2024-02-09 07:05:58][notice]Replacing the row in 0 line.
+[2024-02-09 07:05:58][notice]Replacing row completed. Current row:5000
+[2024-02-09 07:05:58][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2024-02-09 07:05:58][notice]Drop table if exist tmp427c81_wpforms_payment_meta
+[2024-02-09 07:05:58][notice]Creating table tmp427c81_wpforms_payment_meta
+[2024-02-09 07:05:58][notice]Dumping table tmp427c81_wpforms_payment_meta is complete. Start replacing row(s).
+[2024-02-09 07:05:58][notice]Counting of rows in tmp427c81_wpforms_payment_meta: 0
+[2024-02-09 07:05:58][notice]Drop table if exist tmp427c81_formmaker
+[2024-02-09 07:05:58][notice]Creating table tmp427c81_formmaker
+[2024-02-09 07:05:58][notice]Dumping table tmp427c81_formmaker is complete. Start replacing row(s).
+[2024-02-09 07:05:58][notice]Counting of rows in tmp427c81_formmaker: 5
+[2024-02-09 07:05:58][notice]Replacing the row in 0 line.
+[2024-02-09 07:05:58][notice]Replacing row completed. Current row:5000
+[2024-02-09 07:05:58][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2024-02-09 07:05:58][notice]Drop table if exist tmp427c81_comments
+[2024-02-09 07:05:58][notice]Creating table tmp427c81_comments
+[2024-02-09 07:05:58][notice]Dumping table tmp427c81_comments is complete. Start replacing row(s).
+[2024-02-09 07:05:58][notice]Counting of rows in tmp427c81_comments: 1
+[2024-02-09 07:05:58][notice]Replacing the row in 0 line.
+[2024-02-09 07:05:58][notice]Replacing row completed. Current row:5000
+[2024-02-09 07:05:58][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2024-02-09 07:05:58][notice]Drop table if exist tmp427c81_actionscheduler_actions
+[2024-02-09 07:05:58][notice]Creating table tmp427c81_actionscheduler_actions
+[2024-02-09 07:05:58][notice]Dumping table tmp427c81_actionscheduler_actions is complete. Start replacing row(s).
+[2024-02-09 07:05:58][notice]Counting of rows in tmp427c81_actionscheduler_actions: 11
+[2024-02-09 07:05:58][notice]Replacing the row in 0 line.
+[2024-02-09 07:05:58][notice]Replacing row completed. Current row:5000
+[2024-02-09 07:05:58][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2024-02-09 07:05:58][notice]Drop table if exist tmp427c81_formmaker_themes
+[2024-02-09 07:05:58][notice]Creating table tmp427c81_formmaker_themes
+[2024-02-09 07:05:59][notice]Dumping table tmp427c81_formmaker_themes is complete. Start replacing row(s).
+[2024-02-09 07:05:59][notice]Counting of rows in tmp427c81_formmaker_themes: 15
+[2024-02-09 07:05:59][notice]Replacing the row in 0 line.
+[2024-02-09 07:05:59][notice]Replacing row completed. Current row:5000
+[2024-02-09 07:05:59][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2024-02-09 07:05:59][notice]Drop table if exist tmp427c81_wpforms_payments
+[2024-02-09 07:05:59][notice]Creating table tmp427c81_wpforms_payments
+[2024-02-09 07:05:59][notice]Dumping table tmp427c81_wpforms_payments is complete. Start replacing row(s).
+[2024-02-09 07:05:59][notice]Counting of rows in tmp427c81_wpforms_payments: 0
+[2024-02-09 07:05:59][notice]Drop table if exist tmp427c81_posts
+[2024-02-09 07:05:59][notice]Creating table tmp427c81_posts
+[2024-02-09 07:05:59][notice]Dumping table tmp427c81_posts is complete. Start replacing row(s).
+[2024-02-09 07:05:59][notice]Counting of rows in tmp427c81_posts: 158
+[2024-02-09 07:05:59][notice]Replacing the row in 0 line.
+[2024-02-09 07:05:59][notice]Replacing row completed. Current row:5000
+[2024-02-09 07:05:59][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2024-02-09 07:05:59][notice]Drop table if exist tmp427c81_postmeta
+[2024-02-09 07:05:59][notice]Creating table tmp427c81_postmeta
+[2024-02-09 07:06:01][notice]Dumping table tmp427c81_postmeta is complete. Start replacing row(s).
+[2024-02-09 07:06:01][notice]Counting of rows in tmp427c81_postmeta: 701
+[2024-02-09 07:06:01][notice]Replacing the row in 0 line.
+[2024-02-09 07:06:01][notice]Replacing row completed. Current row:5000
+[2024-02-09 07:06:01][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2024-02-09 07:06:01][notice]Drop table if exist tmp427c81_options
+[2024-02-09 07:06:01][notice]Creating table tmp427c81_options
+[2024-02-09 07:06:02][notice]Reading sql file completed offset:6251018
+[2024-02-09 07:06:02][notice]End restore databases.
+[2024-02-09 07:06:04][notice]Start restoring databases.
+[2024-02-09 07:06:04][notice]Start restoring sql file offset:6251018
+[2024-02-09 07:06:04][notice]The test to drop table succeeds.
+[2024-02-09 07:06:04][notice]Reading sql file completed offset:13047316
+[2024-02-09 07:06:04][notice]End restore databases.
+[2024-02-09 07:06:05][notice]Start restoring databases.
+[2024-02-09 07:06:05][notice]Start restoring sql file offset:13047316
+[2024-02-09 07:06:05][notice]The test to drop table succeeds.
+[2024-02-09 07:06:06][notice]Reading sql file completed offset:18357100
+[2024-02-09 07:06:06][notice]End restore databases.
+[2024-02-09 07:06:07][notice]Start restoring databases.
+[2024-02-09 07:06:07][notice]Start restoring sql file offset:18357100
+[2024-02-09 07:06:07][notice]The test to drop table succeeds.
+[2024-02-09 07:06:07][notice]Dumping table tmp427c81_options is complete. Start replacing row(s).
+[2024-02-09 07:06:07][notice]Counting of rows in tmp427c81_options: 366
+[2024-02-09 07:06:07][notice]Replacing the row in 0 line.
+[2024-02-09 07:06:08][notice]Replacing row completed. Current row:5000
+[2024-02-09 07:06:08][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2024-02-09 07:06:08][notice]UPDATE tmp427c81_options SET option_value="https://sandbox.rectitudecs.com" WHERE option_name="siteurl";
+[2024-02-09 07:06:08][notice]update query len:104
+[2024-02-09 07:06:08][notice]UPDATE tmp427c81_options SET option_value="https://sandbox.rectitudecs.com" WHERE option_name="home";
+[2024-02-09 07:06:08][notice]update query len:101
+[2024-02-09 07:06:08][notice]Restore db success
+[2024-02-09 07:06:08][notice]End restore databases.
+[2024-02-09 07:06:09][notice]Restore db success,now start rename temp table name prefix to new site prefix.
+[2024-02-09 07:06:09][notice]DROP TABLE IF EXISTS wp_actionscheduler_actions
+[2024-02-09 07:06:09][notice]DROP TABLE IF EXISTS wp_actionscheduler_claims
+[2024-02-09 07:06:09][notice]DROP TABLE IF EXISTS wp_actionscheduler_groups
+[2024-02-09 07:06:09][notice]DROP TABLE IF EXISTS wp_actionscheduler_logs
+[2024-02-09 07:06:09][notice]DROP TABLE IF EXISTS wp_commentmeta
+[2024-02-09 07:06:09][notice]DROP TABLE IF EXISTS wp_comments
+[2024-02-09 07:06:09][notice]DROP TABLE IF EXISTS wp_e_events
+[2024-02-09 07:06:09][notice]DROP TABLE IF EXISTS wp_formmaker
+[2024-02-09 07:06:09][notice]DROP TABLE IF EXISTS wp_formmaker_backup
+[2024-02-09 07:06:09][notice]DROP TABLE IF EXISTS wp_formmaker_blocked
+[2024-02-09 07:06:09][notice]DROP TABLE IF EXISTS wp_formmaker_cookies
+[2024-02-09 07:06:09][notice]DROP TABLE IF EXISTS wp_formmaker_display_options
+[2024-02-09 07:06:09][notice]DROP TABLE IF EXISTS wp_formmaker_groups
+[2024-02-09 07:06:09][notice]DROP TABLE IF EXISTS wp_formmaker_query
+[2024-02-09 07:06:09][notice]DROP TABLE IF EXISTS wp_formmaker_sessions
+[2024-02-09 07:06:09][notice]DROP TABLE IF EXISTS wp_formmaker_submits
+[2024-02-09 07:06:09][notice]DROP TABLE IF EXISTS wp_formmaker_themes
+[2024-02-09 07:06:09][notice]DROP TABLE IF EXISTS wp_formmaker_views
+[2024-02-09 07:06:09][notice]DROP TABLE IF EXISTS wp_links
+[2024-02-09 07:06:09][notice]DROP TABLE IF EXISTS wp_options
+[2024-02-09 07:06:09][notice]DROP TABLE IF EXISTS wp_postmeta
+[2024-02-09 07:06:09][notice]DROP TABLE IF EXISTS wp_posts
+[2024-02-09 07:06:09][notice]DROP TABLE IF EXISTS wp_term_relationships
+[2024-02-09 07:06:09][notice]DROP TABLE IF EXISTS wp_term_taxonomy
+[2024-02-09 07:06:09][notice]DROP TABLE IF EXISTS wp_termmeta
+[2024-02-09 07:06:09][notice]DROP TABLE IF EXISTS wp_terms
+[2024-02-09 07:06:09][notice]DROP TABLE IF EXISTS wp_usermeta
+[2024-02-09 07:06:09][notice]DROP TABLE IF EXISTS wp_users
+[2024-02-09 07:06:09][notice]DROP TABLE IF EXISTS wp_wpforms_payment_meta
+[2024-02-09 07:06:09][notice]DROP TABLE IF EXISTS wp_wpforms_payments
+[2024-02-09 07:06:09][notice]DROP TABLE IF EXISTS wp_wpforms_tasks_meta
+[2024-02-09 07:06:09][notice]RENAME TABLE tmp427c81_actionscheduler_actions TO wp_actionscheduler_actions
+[2024-02-09 07:06:09][notice]RENAME TABLE tmp427c81_actionscheduler_claims TO wp_actionscheduler_claims
+[2024-02-09 07:06:09][notice]RENAME TABLE tmp427c81_actionscheduler_groups TO wp_actionscheduler_groups
+[2024-02-09 07:06:09][notice]RENAME TABLE tmp427c81_actionscheduler_logs TO wp_actionscheduler_logs
+[2024-02-09 07:06:09][notice]RENAME TABLE tmp427c81_commentmeta TO wp_commentmeta
+[2024-02-09 07:06:09][notice]RENAME TABLE tmp427c81_comments TO wp_comments
+[2024-02-09 07:06:09][notice]RENAME TABLE tmp427c81_e_events TO wp_e_events
+[2024-02-09 07:06:09][notice]RENAME TABLE tmp427c81_formmaker TO wp_formmaker
+[2024-02-09 07:06:09][notice]RENAME TABLE tmp427c81_formmaker_backup TO wp_formmaker_backup
+[2024-02-09 07:06:09][notice]RENAME TABLE tmp427c81_formmaker_blocked TO wp_formmaker_blocked
+[2024-02-09 07:06:10][notice]RENAME TABLE tmp427c81_formmaker_cookies TO wp_formmaker_cookies
+[2024-02-09 07:06:10][notice]RENAME TABLE tmp427c81_formmaker_display_options TO wp_formmaker_display_options
+[2024-02-09 07:06:10][notice]RENAME TABLE tmp427c81_formmaker_groups TO wp_formmaker_groups
+[2024-02-09 07:06:10][notice]RENAME TABLE tmp427c81_formmaker_query TO wp_formmaker_query
+[2024-02-09 07:06:10][notice]RENAME TABLE tmp427c81_formmaker_sessions TO wp_formmaker_sessions
+[2024-02-09 07:06:10][notice]RENAME TABLE tmp427c81_formmaker_submits TO wp_formmaker_submits
+[2024-02-09 07:06:10][notice]RENAME TABLE tmp427c81_formmaker_themes TO wp_formmaker_themes
+[2024-02-09 07:06:10][notice]RENAME TABLE tmp427c81_formmaker_views TO wp_formmaker_views
+[2024-02-09 07:06:10][notice]RENAME TABLE tmp427c81_links TO wp_links
+[2024-02-09 07:06:10][notice]RENAME TABLE tmp427c81_options TO wp_options
+[2024-02-09 07:06:10][notice]RENAME TABLE tmp427c81_postmeta TO wp_postmeta
+[2024-02-09 07:06:10][notice]RENAME TABLE tmp427c81_posts TO wp_posts
+[2024-02-09 07:06:10][notice]RENAME TABLE tmp427c81_term_relationships TO wp_term_relationships
+[2024-02-09 07:06:10][notice]RENAME TABLE tmp427c81_term_taxonomy TO wp_term_taxonomy
+[2024-02-09 07:06:10][notice]RENAME TABLE tmp427c81_termmeta TO wp_termmeta
+[2024-02-09 07:06:10][notice]RENAME TABLE tmp427c81_terms TO wp_terms
+[2024-02-09 07:06:10][notice]RENAME TABLE tmp427c81_usermeta TO wp_usermeta
+[2024-02-09 07:06:10][notice]RENAME TABLE tmp427c81_users TO wp_users
+[2024-02-09 07:06:10][notice]RENAME TABLE tmp427c81_wpforms_payment_meta TO wp_wpforms_payment_meta
+[2024-02-09 07:06:10][notice]RENAME TABLE tmp427c81_wpforms_payments TO wp_wpforms_payments
+[2024-02-09 07:06:10][notice]RENAME TABLE tmp427c81_wpforms_tasks_meta TO wp_wpforms_tasks_meta
+[2024-02-09 07:06:10][notice]Replacing table prefix succeeded.
+[2024-02-09 07:06:10][notice]Delete migration option failed.
+[2024-02-09 07:06:10][notice]Deleting temp files.
