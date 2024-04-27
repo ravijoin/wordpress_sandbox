@@ -1,0 +1,92 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-05 11:57+0545\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: header.php:28
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:42
+msgid "Header Image"
+msgstr ""
+
+#: search.php:21
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/customizer.php:20
+msgid "Fine Blog"
+msgstr ""
+
+#: inc/customizer.php:21
+msgid "Buy Pro"
+msgstr ""
+
+#: inc/ocdi.php:6
+msgid "Demo content files for Fine Blog Theme."
+msgstr ""
+
+#: inc/ocdi.php:8
+msgid "Click here to download demo files."
+msgstr ""
+
+#: inc/customizer/archive-layout.php:11
+msgid "Archive Layout"
+msgstr ""
+
+#: inc/customizer/archive-layout.php:28
+msgid "Column Layout"
+msgstr ""
+
+#: inc/customizer/archive-layout.php:32
+msgid "Column 2"
+msgstr ""
+
+#: inc/customizer/archive-layout.php:33
+msgid "Column 3"
+msgstr ""
+
+#: inc/customizer/post-carousel.php:12
+msgid "Posts Carousel Section"
+msgstr ""
+
+#: inc/customizer/post-carousel.php:30
+msgid "Enable Post Carousel Section"
+msgstr ""
+
+#: inc/customizer/post-carousel.php:59
+msgid "Select Content Type"
+msgstr ""
+
+#: inc/customizer/post-carousel.php:65
+msgid "Post"
+msgstr ""
+
+#: inc/customizer/post-carousel.php:66
+msgid "Category"
+msgstr ""
+
+#: inc/customizer/post-carousel.php:82
+msgid "Select Category"
+msgstr ""
+
+#: inc/customizer/post-carousel.php:103
+#, php-format
+msgid "Select Post %d"
+msgstr ""

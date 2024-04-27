@@ -1,0 +1,6 @@
+li#accordion-section-upsell_section,
+li#accordion-section-slick_blog_slider_section,
+li#accordion-section-slick_blog_categories_section,
+li#accordion-section-slick_blog_featured_posts_section {
+    display: none !important;
+}
